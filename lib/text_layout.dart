@@ -20,14 +20,13 @@ class TextLayout extends StatelessWidget {
         Padding(
           padding: EdgeInsets.only(left: 20, bottom: 10, right: 20, top: 20),
           child: Text(
-            "Welcome, dear user! Cereus is a collection of tropical cacti that put on a spectacular, aromatic exhibit in the evening. This application inspires people to appreciate, study, and protect cacti plants because of their value to human health and the Earth's delicate ecosystems. Stay updated for more features soon! Please contact us @092-234-567 for more details or feedback.",
+            "Welcome, dear user! \n\nCereus is a collection of tropical cacti that are known for putting on a spectacular, aromatic exhibit in the evening. The Cereus application is designed to inspire people to appreciate, study, and view cacti plants. With this app, users can learn more about the different types of cacti, their unique features, and their natural habitats.\n\nStay tuned for more features coming soon! If you have any feedback or questions, please don't hesitate to contact us at 093-112-763. We would love to hear from you and are always open to suggestions for how we can improve the app.",
             style: TextStyle(
                 color: Color.fromARGB(255, 66, 75, 114),
                 fontFamily: 'CrimsonText',
                 fontSize: 18),
           ),
         ),
-        //row
       ],
     );
   }
