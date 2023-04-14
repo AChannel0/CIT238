@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_layout/text_layout.dart';
+import 'package:flutter_layout/app_drawer.dart';
 
 class AboutScreen extends StatelessWidget {
   @override
@@ -22,9 +23,7 @@ class AboutScreen extends StatelessWidget {
           ],
         ),
       ),
-      drawer: Drawer(
-        child: Container(color: Color.fromARGB(255, 0, 0, 0)),
-      ),
+      drawer: MyDrawer(),
     );
   }
 }
