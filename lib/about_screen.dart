@@ -14,7 +14,7 @@ class AboutScreen extends StatelessWidget {
             )),
         actions: <Widget>[],
       ),
-      body: Container(
+      body: SingleChildScrollView(
         padding: EdgeInsets.only(bottom: 20),
         child: Column(
           children: <Widget>[
