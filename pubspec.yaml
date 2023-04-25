@@ -47,5 +47,4 @@ flutter:
         - asset: assets/CrimsonText-Regular.ttf
 
   assets:
-    - assets/logo.jpg
-
+  - assets/
