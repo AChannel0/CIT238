@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_layout/about_screen.dart';
+import 'package:flutter_layout/home.dart';
 
 class MyDrawer extends StatelessWidget {
   @override
@@ -19,17 +21,40 @@ class MyDrawer extends StatelessWidget {
           ListTile(
             leading: Icon(Icons.home, color: Colors.white),
             title: Text('Home', style: TextStyle(color: Colors.white)),
-            onTap: () {},
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => HomeScreen(),
+                ),
+              );
+            },
           ),
           ListTile(
             leading: Icon(Icons.favorite, color: Colors.white),
             title: Text('Collection', style: TextStyle(color: Colors.white)),
-            onTap: () {},
+            onTap: () {
+              Navigator.pushNamed(context, '/collection');
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.info, color: Colors.white),
+            title: Text('About', style: TextStyle(color: Colors.white)),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => AboutScreen(),
+                ),
+              );
+            },
           ),
           ListTile(
             leading: Icon(Icons.settings, color: Colors.white),
             title: Text('Settings', style: TextStyle(color: Colors.white)),
-            onTap: () {},
+            onTap: () {
+              Navigator.pushNamed(context, '/settings');
+            },
           ),
         ],
       ),
