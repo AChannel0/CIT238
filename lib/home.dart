@@ -34,40 +34,40 @@ class _HomeScreenState extends State<HomeScreen> {
           'Also known as the Peruvian apple cactus, is a large, columnar cactus with nocturnal white flowers and edible fruits.'
     },
     {
-      'name': 'HYLOCEREUS UNDATUS',
+      'name': 'EPIPHYLLUM CRENATUM',
       'image': '../assets/5.png',
       'description':
-          'Also known as the Dragon fruit or Pitahaya, is a climbing cactus with sweet, juicy, and refreshing fruit that has a unique appearance.'
+          'a very a very popular and well-known species with robust stems, leaf-like in appearance and with margins notched or scalloped. '
     },
     {
-      'name': 'CEREUS PERUVIANUS',
+      'name': 'HYLOCEREUS POLYRHIZUS',
       'image': '../assets/6.png',
       'description':
-          'Also known as the Peruvian apple cactus, is a large, columnar cactus with nocturnal white flowers and edible fruits.'
+          'A species of cactus that has red skin and red flesh fruit, also known as dragon fruit or Selenicereus. It is a succulent plant that grows in warm climates and has spines on the stem and leaves.'
     },
     {
-      'name': 'HYLOCEREUS UNDATUS',
+      'name': 'EPIPHYLLUM HOOKERI',
       'image': '../assets/7.png',
       'description':
-          'Also known as the Dragon fruit or Pitahaya, is a climbing cactus with sweet, juicy, and refreshing fruit that has a unique appearance.'
+          'Known to be a climbing cactus that grows abundant foliage of long and strappy, yet sturdy, leaves.'
     },
     {
-      'name': 'CEREUS PERUVIANUS',
+      'name': 'PENIOCEREUS GREGGII',
       'image': '../assets/8.png',
       'description':
-          'Also known as the Peruvian apple cactus, is a large, columnar cactus with nocturnal white flowers and edible fruits.'
+          'This plant is commonly known as the Arizona Queen of the Night. They have a large underground tuber, thin and inconspicuous stems. '
     },
     {
-      'name': 'HYLOCEREUS UNDATUS',
+      'name': 'EPIPHYLLUM PHYLLANTHUS',
       'image': '../assets/9.png',
       'description':
-          'Also known as the Dragon fruit or Pitahaya, is a climbing cactus with sweet, juicy, and refreshing fruit that has a unique appearance.'
+          'Known as the climbing cactus, is a species of epiphytic cacti. It has no leaves, instead having stems that photosynthesise. It is thought to be pollinated by hawkmoths, as the flowers only open at night and produce a strong fragrance.'
     },
     {
-      'name': 'CEREUS PERUVIANUS',
+      'name': 'CEREUS HILDMANNIANUS',
       'image': '../assets/10.png',
       'description':
-          'Also known as the Peruvian apple cactus, is a large, columnar cactus with nocturnal white flowers and edible fruits.'
+          'Produces beautiful white flowers and have a sweet fragrance. The flowers can reach up to 15cm in diameter and are followed by reddish-purple fruits that are edible but not commonly consumed.'
     },
   ];
 
