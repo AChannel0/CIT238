@@ -1,5 +1,5 @@
 # CIT238 
-# CEREUS Mobile Application by Allady Nica Alinsod & NIV Joy Solis
+CEREUS Mobile Application by Allady Nica Alinsod & NIV Joy Solis
 
 CEREUS - a collection of cereus cacti plants
 
