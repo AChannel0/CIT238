@@ -1,4 +1,4 @@
-# CIT238 
+# CIT238 Project
 CEREUS Mobile Application by Allady Nica Alinsod & NIV Joy Solis
 
 CEREUS - a collection of cereus cacti plants
